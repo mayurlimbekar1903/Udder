@@ -21,6 +21,8 @@ class ViewController: UIViewController {
 
     override func viewDidAppear(_ animated: Bool) {
         print("hellow i am doing nothing")
+        print("nothig 1 ")
+        print("nothing 1")
     }
     
     override func viewDidDisappear(_ animated: Bool) {
