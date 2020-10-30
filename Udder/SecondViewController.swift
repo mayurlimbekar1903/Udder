@@ -22,6 +22,7 @@ class SecondViewController: UIViewController {
         super.viewWillAppear(true)
         print("view will appear gets called..")
     }
+    
     /*
     // MARK: - Navigation
 
