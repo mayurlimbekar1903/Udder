@@ -23,6 +23,9 @@ class SecondViewController: UIViewController {
         print("view will appear gets called..")
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        print("did appear")
+    }
     /*
     // MARK: - Navigation
 
