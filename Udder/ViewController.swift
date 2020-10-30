@@ -19,5 +19,12 @@ class ViewController: UIViewController {
         //appear is added
     }
 
+    override func viewDidAppear(_ animated: Bool) {
+        print("hellow i am doing nothing")
+    }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        //added disappear code
+    }
 }
 
