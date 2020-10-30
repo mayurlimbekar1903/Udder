@@ -23,6 +23,9 @@ class ViewController: UIViewController {
         print("hellow i am doing nothing")
         print("nothig 1 ")
         print("nothing 1")
+        print("everything 1")
+        print("every thing 2")
+        print("ths is to check conflicts inside applications")
     }
     
     override func viewDidDisappear(_ animated: Bool) {
